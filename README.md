@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Will DePUe</h1>
+<h1 align="center">Hi 👋, I'm Will DePue</h1>
 <h3 align="center">I'm building a messaging app for students</h3>
 
 <p align="left"> <a href="https://twitter.com/will_depue" target="blank"><img src="https://img.shields.io/twitter/follow/will_depue?logo=twitter&style=for-the-badge" alt="will_depue" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **will@thrivehq.com**
 
-- ⚡ Fun fact **I'm**
+- ⚡ Fun fact **Soy argentino**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
