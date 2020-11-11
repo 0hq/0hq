@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Will DePUe</h1>
-<h3 align="center">A</h3>
+<h3 align="center">I'm building a messaging app for students</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0hq&label=Profile%20views&color=0e75b6&style=flat" alt="0hq" /> </p>
 
