@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Will DePue</h1>
 <h3 align="center">I'm building a messaging app for students</h3>
 
-<p align="left"> <a href="https://twitter.com/will_depue" target="blank"><img src="https://img.shields.io/twitter/follow/will_depue?logo=twitter&style=for-the-badge" alt="will_depue" /></a> </p>
-
 - 🔭 I’m currently working on **Thrive -**
 
 - 🌱 I’m currently learning **Python + iOS Development**
