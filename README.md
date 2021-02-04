@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Will DePue</h1>
 <h3 align="center">I'm building a messaging app for students</h3>
 
-- 🔭 I’m currently working on **Thrive -**
+- 🔭 I’m currently working on **Thrive - Discord for High Schools**
 
 - 🌱 I’m currently learning **Python + iOS Development**
 
 - 💬 Ask me about **anything, preferably building keyboards.**
 
 - 📫 How to reach me **will@thrivehq.com**
-
-- ⚡ Fun fact **Soy argentino**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
